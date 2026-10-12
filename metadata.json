@@ -1,0 +1,8 @@
+{
+  "name": "Remix ACCESSVERSE — Urban Accessibility \u0026 Barrier Memory",
+  "description": "AI-powered community accessibility platform using Gemma 4 multimodal vision to report obstacles, detect duplicates, and track the persistent lifecycle of urban barriers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
